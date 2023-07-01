@@ -1,0 +1,25 @@
+How to run the wedding planner Project
+
+1.Download the zip file from this link https://drive.google.com/file/d/19tbpP-3NY0NJ8EhMvXdGRzXMoHGdVHBy/view?usp=sharing
+
+2.Extract the file and copy hbms folder
+
+3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+
+4.Open PHPMyAdmin (http://localhost/phpmyadmin)
+
+5.Create a database with name contact_db
+
+6.Import hbmsdb.sql file(given inside the zip package in SQL file folder)
+
+7.Run the script http://localhost/wedding planner/home.php
+
+
+
+
+(KUDSE202F-001)
+(KUDSE202F-002)
+(KUDSE202F-003)
+(KUDSE202F-009)
+(KUDSE202F-028)
+
